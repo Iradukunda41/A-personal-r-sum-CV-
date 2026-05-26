@@ -47,6 +47,7 @@ body{
   object-fit:cover;
 }
 
+
 .profile-box h2{
   position:absolute;
   bottom:10px;
@@ -131,6 +132,7 @@ footer i{
   color:white;
   margin:0 10px;
   font-size:20px;
+  gap: 1px;
 }
 
 footer i{
@@ -139,6 +141,10 @@ footer i{
   font-size:20px;
   transition: 0.3s;
   cursor: pointer;
+}
+
+footer p{
+  color:white;
 }
 
 /* HOVER EFFECT */
